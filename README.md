@@ -19,15 +19,13 @@
 </div>
 
 # Proxies
-## * means subject to change
+## Another circle means subject to change
 * https://www.fecc.me/
 * * https://www.geop.space/
 * * https://www.trew.pw/
 * * https://www.qwew.xyz/
 * https://www.pisaucer.github.io/Clever/
 * https://www.pisaucer.000webhostapp.com/index.php/
-
-Feel free to add more stuff!
 * https://www.akap.site/
 
-<div>&nbsp;</div>
+Feel free to add more stuff!
