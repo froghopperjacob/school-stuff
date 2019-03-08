@@ -18,7 +18,7 @@
   Just drag the bookmarks to your bookmark bar and then click them. This should give the desired effect.
 </div>
 
-#Proxies
+# Proxies
 ## {} means subject to change
 * https://www.fecc.me/
 * {https://www.geop.space/}
